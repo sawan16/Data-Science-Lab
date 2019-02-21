@@ -1,0 +1,21 @@
+Install Anaconda IDE from https://anaconda.org/
+
+Install NLTK as follows:
+
+using Terminal window:
+a) pip install nltk
+
+b)Jump in to python mode
+>>import nltk
+>>nltk.download()
+
+A pop-up window will appear. Just select All package Option and hit the "dwonload" button.
+
+Install Open cv as follows:
+
+pip install open-cv
+
+If you are working behind the proxy apply following settings in the terminal on windows:
+
+set HTTP_PROXY=http://<user name>:<password>@<proxy ip>:<port>
+set HTTPS_PROXY=https://<user name>:<password>@<proxy ip>:<port>
